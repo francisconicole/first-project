@@ -1,0 +1,245 @@
+/*------------------all sections--------------------------------*/
+.wow { 
+	visibility: hidden; 
+}
+
+.info #fly {
+	font-size: 3em;
+}
+
+.info {
+	width: 100%;
+	height: 700px;
+	background-color: #3892B0;
+	text-align: center;
+	padding-top:0px;
+	border: solid #3892B0 1px;
+	-webkit-box-shadow: 5px 5px 10px #002624;
+	-moz-box-shadow: 5px 5px 10px #002624;
+	box-shadow: 5px 5px 10px #002624;
+}
+
+.info h2 {
+	font-size: 2em;
+	color: #C780D9;
+}
+
+.info h1 {
+	font-size: 5em;
+	color: #843B96;
+	text-shadow: 2px 2px 4px #F2D9FC;
+	
+}
+
+img {
+	width: 100%
+}
+
+body { 
+	font-family: 'Karla', sans-serif;
+	font-size: 1.5em;
+}
+
+.parallax-container {
+      height:500px;
+    }
+	
+.parallax img {
+	width: 100%;
+	height: auto;
+	padding: 0px;
+}
+
+.pic img {
+	width: 100%;
+	height: auto;
+}
+
+.span4{
+	font-size: 1.3em;
+	color: #096E4A;
+}	
+/*------------------intro section-------------------------------*/
+#name {
+	font-size: 5em;
+	color: #843B96;
+	text-shadow: 2px 2px 4px #F2D9FC;
+}
+
+#me {
+	margin-top: 10%;
+	font-size: 7em;
+	color: #60167D;
+	-webkit-animation-duration: 3s;
+    -webkit-animation-delay: 1s;
+	text-shadow: 4px 4px 4px #BF41A8;
+	-webkit-box-shadow: 5px 5px 10px #002624;
+	-moz-box-shadow: 5px 5px 10px #002624;
+	box-shadow: 5px 5px 10px #002624;
+ }
+ 
+ #intro {
+	font-size: 2em;
+	color: #F2D9FC;
+}
+
+#intro1 {
+	font-size: 2em;
+	color: #F2D9FC;
+}
+/*----------------------education section-----------------------------*/
+#edu ul li {
+	color: #F4D7F7;
+	font-size: 1.5em;
+	list-style-type: circle;
+}
+
+#honors {
+	font-size: 2.8em;
+	text-shadow: 2px 2px 4px #F2D9FC;
+	color: #843B96;
+}
+
+#cation {
+	color: #843B96;
+	text-shadow: 2px 2px 4px #F2D9FC;
+}
+
+/*--------------------------Work Section-------------------------------*/
+#labor ul li {
+	color: #F4D7F7;
+	font-size: 1.5em;
+	list-style-type: circle;
+}
+
+#work {
+	text-shadow: 2px 2px 4px #F2D9FC;
+}
+
+/*-------------------------Skills Section-----------------------------*/
+#skills {
+	color: #22C997;
+}
+
+#skills a {
+	color: #F4D7F7;
+	font-size: 1em;
+	background-color: #6A3178;
+	margin-top: 10px;
+}
+
+#progL {
+	color: #6A3178;
+	text-shadow: 1px 1px 2px #F2D9FC;
+	-webkit-box-shadow: 5px 5px 10px #002624;
+	-moz-box-shadow: 5px 5px 10px #002624;
+	box-shadow: 5px 5px 10px #002624;
+}
+
+#softL {
+	color: #6A3178;
+	text-shadow: 1px 1px 2px #F2D9FC;
+	-webkit-box-shadow: 5px 5px 10px #002624;
+	-moz-box-shadow: 5px 5px 10px #002624;
+	box-shadow: 5px 5px 10px #002624;
+}
+
+#inst {
+	color: #F2D9FC;
+	text-shadow: 1px 1px 2px #6A3178;
+	font-size: 1.3em;
+}
+
+#skill {
+	text-shadow: 2px 2px 4px #F2D9FC;
+}
+
+.modal {
+	width: 100%;
+	height:auto;
+	background-color: #F7E9F7;
+	color: #683B6E;
+}
+
+.modal-content svg {
+	margin-left: 40%;
+}
+
+/*------------------------------Portfolio Section----------------------*/
+#tain img{
+	width: 350px;
+	height: auto;
+	padding-right: 50px;
+}
+
+#horde img {
+	width: 300px;
+	height: auto;
+}
+
+.direct {
+	font-size: 1.5em;
+	color: #F4D7F7;
+}
+
+/*-------------------------------Contact Me Section---------------------*/
+#cont_me {
+	width: 100%;
+	color: #F4D7F7;
+}	
+
+#send1 {
+	background-color: #6A3178;
+}
+
+form {
+	width: 400px;
+	margin-left: 30%;
+	font-size: 1.7em;
+}
+
+.input-field label {
+    color: #F4D7F7;
+	font-size: 1em;
+}
+
+.input-field input[type=text]:focus + label {
+    color: #E7F7E1;
+}
+
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid #078C6B;
+    box-shadow: 0 1px 0 0 #F4D7F7;;
+}
+
+.input-field input[type=text].valid {
+    border-bottom: 1px solid #A6F5A6;
+    box-shadow: 0 1px 0 0 #000;
+}
+
+.input-field input[type=text].invalid {
+    border-bottom: 1px solid #F53643;
+    box-shadow: 0 1px 0 0 #000;
+ }
+
+table {
+	width: 100%;
+}
+
+td {
+	width: 30%;
+}
+
+#or {
+	text-align: center;
+	color: #6A3178;
+	font-size: 3em;
+	padding-left: 2%;
+}
+
+#myInfo {
+	color: #F4D7F7;
+	font-size: 1.7em;
+	padding-left: 2%;
+}
+
